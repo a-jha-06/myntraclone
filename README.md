@@ -5,15 +5,15 @@ Description
 This project is clone of Mynta WebApp.
 
 Features
-Search Products by name.
-Apply Filters
-Add to Wishlist
-Add to Cart
-Login page to check proper input
-Product discription page
+1. Search Products by name.
+2. Apply Filters
+3. Add to Wishlist
+4. Add to Cart
+5. Login page to check proper input
+6. Product discription page
 
 Tech Stack
-React
-Express JS
-Mongoose
-MongoDB
+1. React
+2. CSS
+3. HTML
+
