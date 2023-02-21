@@ -1,8 +1,7 @@
 Myntra Clone
-Live Project URL - http://abhi-myntra.herokuapp.com/
 
 Description
-This project is clone of Mynta WebApp.
+This project is clone of Myntra WebApp.
 
 Features
 1. Search Products by name.
