@@ -15,4 +15,7 @@ Tech Stack
 1. React
 2. CSS
 3. HTML
-
+   
+ ## Preview
+ 
+![image](https://github.com/a-jha-06/myntraclone/assets/106396122/0c751101-c727-4fb7-832c-dc92bc7d55ee)
